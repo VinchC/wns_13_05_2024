@@ -1,3 +1,11 @@
+import Countries from "@/components/Countries/Countries";
+import Header from "@/components/Header";
+
 export default function Home() {
-  return <h1>Hello, Vincent !</h1>;
+  return (
+    <>
+      <Header />
+      <Countries />
+    </>
+  );
 }

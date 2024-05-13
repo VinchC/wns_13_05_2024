@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "code": "FR",
+      "continent": {
+        "id": 1,
+        "name": "Europe"
+      },
+      "emoji": "🇫🇷",
+      "id": 1,
+      "name": "France"
+    },
+    {
+      "code": "CN",
+      "continent": {
+        "id": 2,
+        "name": "Asia"
+      },
+      "emoji": "🇨🇳",
+      "id": 2,
+      "name": "China"
+    },
+    {
+      "code": "CA",
+      "continent": {
+        "id": 5,
+        "name": "North America"
+      },
+      "emoji": "🇨🇦",
+      "id": 3,
+      "name": "Canada"
+    },
+    {
+      "code": "AU",
+      "continent": {
+        "id": 3,
+        "name": "Oceania"
+      },
+      "emoji": "🇦🇺",
+      "id": 4,
+      "name": "Australia"
+    },
+    {
+      "code": "KE",
+      "continent": {
+        "id": 4,
+        "name": "Africa"
+      },
+      "emoji": "🇰🇪",
+      "id": 5,
+      "name": "Kenya"
+    },
+    {
+      "code": "BR",
+      "continent": {
+        "id": 6,
+        "name": "South America"
+      },
+      "emoji": "🇧🇷",
+      "id": 6,
+      "name": "Brazil"
+    }
+  ]
+}
